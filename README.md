@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PhantomShield AI — Terminal Edition
 **All-in-One Cybersecurity Toolkit | Single Python File**
 
@@ -147,3 +148,6 @@ Built for learning and authorized security testing only. Don't scan, probe, or a
 ---
 
 *Phantom brand — suganth_b_cyber*
+=======
+# PhantomShield
+>>>>>>> 81ca5730c305de12e1a993d81081e40b294c4b0a
