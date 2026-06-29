@@ -1,10 +1,14 @@
-<<<<<<< HEAD
+
 # PhantomShield AI — Terminal Edition
 **All-in-One Cybersecurity Toolkit | Single Python File**
 
 A menu-driven CLI tool combining 7 security modules — same style as PhantomSniff.
 
 ---
+![Python](https://img.shields.io/badge/python-3.8%2B-00F5FF)
+![Dependencies](https://img.shields.io/badge/dependencies-none-00FF88)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)
+![Status](https://img.shields.io/badge/status-active-00F5FF)
 
 ## Setup
 
